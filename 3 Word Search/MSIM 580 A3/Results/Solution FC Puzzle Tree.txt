@@ -1,0 +1,37 @@
+Puzzle Tree.txt Solution Backtracking Algorithm with Forward Checking
+
+  entente   
+  e     p  t
+  r     e  e
+  i  tepee e
+  e    e   p
+    t  erase
+    e  w e e
+ a aerie r  
+ l  t  e a  
+settee   t  
+ e  r    e  
+
+Program Performance Data:
+Total comparisons: 42
+Search time: 0:0:0:55
+Preparation time: 0:0:1:374
+Total time: 0:0:1:429
+Dictionary Summary:
+Shortest Word: 4 Letters, Longest Word: 7 Letters
+Dictionary Word Counts: 0 0 0 1755 2461 3273 3434 
+Dictionary Sample: epee, alee ... buzz, fuzz; eerie, aerie ... jazzy, fuzzy; teepee, teeter ... fluffy, dybbuk; referee, release ... kickoff, mugwump; 
+
+Word List: Index - Length - Word
+ 1 Across -  7 Letters - entente
+ 4 Across -  5 Letters - tepee
+ 7 Across -  5 Letters - erase
+10 Across -  5 Letters - aerie
+11 Across -  6 Letters - settee
+ 1 Down   -  5 Letters - eerie
+ 2 Down   -  4 Letters - epee
+ 3 Down   -  6 Letters - teepee
+ 5 Down   -  6 Letters - peewee
+ 6 Down   -  6 Letters - teeter
+ 8 Down   -  6 Letters - aerate
+ 9 Down   -  4 Letters - alee

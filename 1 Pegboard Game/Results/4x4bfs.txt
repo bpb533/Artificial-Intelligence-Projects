@@ -1,0 +1,63 @@
+4 Pegs Remain
+Total nodes explored: 492416
+Total time: 0:5:0:3
+Board 0: 15 Pegs
+1011
+1111
+1111
+1111
+Board 1: 14 Pegs
+1100
+1111
+1111
+1111
+Board 2: 13 Pegs
+1110
+1101
+1101
+1111
+Board 3: 12 Pegs
+1110
+0011
+1101
+1111
+Board 4: 11 Pegs
+1110
+0011
+0011
+1111
+Board 5: 10 Pegs
+1110
+0100
+0011
+1111
+Board 6: 9 Pegs
+1110
+0110
+0001
+1101
+Board 7: 8 Pegs
+1110
+1000
+0001
+1101
+Board 8: 7 Pegs
+1110
+1000
+0001
+0011
+Board 9: 6 Pegs
+1110
+1001
+0000
+0010
+Board 10: 5 Pegs
+0110
+0001
+1000
+0010
+Board 11: 4 Pegs
+1000
+0001
+1000
+0010

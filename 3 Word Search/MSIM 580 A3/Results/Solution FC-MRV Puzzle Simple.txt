@@ -1,0 +1,28 @@
+Puzzle Simple.txt Solution Backtracking Algorithm with Forward Checking and Minimum Remaining Values
+
+hoses
+  a t
+ hike
+a lee
+laser
+e  l 
+
+Program Performance Data:
+Total comparisons: 24
+Search time: 0:0:0:6
+Preparation time: 0:0:0:9
+Total time: 0:0:0:15
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 5 Letters
+Dictionary Word Counts: 0 0 5 5 5 
+Dictionary Sample: lee, eel ... tie, aft; heel, keel ... hike, knot; sheet, steer ... hoses, sails; 
+
+Word List: Index - Length - Word
+ 1 Across -  5 Letters - hoses
+ 4 Across -  4 Letters - hike
+ 7 Across -  3 Letters - lee
+ 8 Across -  5 Letters - laser
+ 2 Down   -  5 Letters - sails
+ 3 Down   -  5 Letters - steer
+ 5 Down   -  4 Letters - keel
+ 6 Down   -  3 Letters - ale

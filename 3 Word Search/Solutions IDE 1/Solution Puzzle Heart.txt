@@ -1,0 +1,67 @@
+Puzzle Heart.txt Solution
+
+  ass   ego  
+ saute spout 
+ preen width 
+old magic see
+viva con amok
+anal toe mare
+ trio   aery 
+  kale cent  
+   seafood   
+    ocean    
+     hex     
+      d      
+
+Program Performance Data:
+Total comparisons: 16396061
+Total time: 1:3:23:847
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 8 Letters
+Dictionary Indexes: 0 0 0 533 2288 4749 8022 11456 14550 
+Dictionary Word Counts: 0 0 533 1755 2461 3273 3434 3094 
+Dictionary Sample: ace, act ... zip, zoo; abbe, abed ... zone, zoom; aback, abaft ... zonal, zooid; abacus, abatis ... zygote, zymase; abalone, abandon ... zealous, zoology; aardvark, abattoir ... zoospore, zwieback; 
+
+Word List: Index - Length - Word
+  2 -  1 Across -  3 Letters - ass - Crosses With: 1 3 4 
+  8 -  4 Across -  3 Letters - ego - Crosses With: 5 7 8 
+ 14 -  7 Across -  5 Letters - saute - Crosses With: 1 3 4 9 11 
+ 20 -  9 Across -  5 Letters - spout - Crosses With: 5 7 8 12 14 
+ 27 - 11 Across -  5 Letters - preen - Crosses With: 1 3 4 9 11 
+ 33 - 12 Across -  5 Letters - width - Crosses With: 5 7 8 12 14 
+ 39 - 13 Across -  3 Letters - old - Crosses With: 1 9 17 
+ 43 - 14 Across -  5 Letters - magic - Crosses With: 4 5 11 12 20 
+ 49 - 16 Across -  3 Letters - see - Crosses With: 8 14 22 
+ 52 - 18 Across -  4 Letters - viva - Crosses With: 1 9 17 24 
+ 57 - 20 Across -  3 Letters - con - Crosses With: 11 12 20 
+ 61 - 21 Across -  4 Letters - amok - Crosses With: 8 14 22 26 
+ 65 - 22 Across -  4 Letters - anal - Crosses With: 1 9 17 24 
+ 70 - 23 Across -  3 Letters - toe - Crosses With: 11 12 20 
+ 74 - 24 Across -  4 Letters - mare - Crosses With: 8 14 22 26 
+ 79 - 25 Across -  4 Letters - trio - Crosses With: 1 9 24 32 
+ 86 - 27 Across -  4 Letters - aery - Crosses With: 8 14 26 33 
+ 93 - 28 Across -  4 Letters - kale - Crosses With: 1 24 32 36 
+ 98 - 30 Across -  4 Letters - cent - Crosses With: 8 26 33 37 
+107 - 31 Across -  7 Letters - seafood - Crosses With: 24 26 32 33 36 37 40 
+121 - 33 Across -  5 Letters - ocean - Crosses With: 32 33 36 37 40 
+135 - 34 Across -  3 Letters - hex - Crosses With: 36 37 40 
+  2 -  1 Down   -  8 Letters - aardvark - Crosses With: 2 10 15 18 23 28 31 35 
+  3 -  2 Down   -  3 Letters - sue - Crosses With: 2 10 15 
+  4 -  3 Down   -  4 Letters - stem - Crosses With: 2 10 15 19 
+  8 -  4 Down   -  4 Letters - epic - Crosses With: 6 13 16 19 
+  9 -  5 Down   -  3 Letters - god - Crosses With: 6 13 16 
+ 10 -  6 Down   -  8 Letters - outsmart - Crosses With: 6 13 16 21 27 30 34 38 
+ 14 -  7 Down   -  6 Letters - splint - Crosses With: 10 15 18 23 28 31 
+ 18 -  8 Down   -  5 Letters - enact - Crosses With: 10 15 19 25 29 
+ 20 -  9 Down   -  5 Letters - swine - Crosses With: 13 16 19 25 29 
+ 24 - 10 Down   -  6 Letters - theory - Crosses With: 13 16 21 27 30 34 
+ 39 - 13 Down   -  3 Letters - ova - Crosses With: 18 23 28 
+ 45 - 15 Down   -  3 Letters - goo - Crosses With: 19 25 29 
+ 51 - 17 Down   -  3 Letters - eke - Crosses With: 21 27 30 
+ 55 - 19 Down   -  5 Letters - alias - Crosses With: 23 28 31 35 39 
+ 61 - 21 Down   -  5 Letters - amend - Crosses With: 27 30 34 38 39 
+ 82 - 26 Down   -  4 Letters - oleo - Crosses With: 31 35 39 41 
+ 86 - 27 Down   -  4 Letters - aeon - Crosses With: 34 38 39 41 
+ 96 - 29 Down   -  4 Letters - each - Crosses With: 35 39 41 42 
+ 98 - 30 Down   -  4 Letters - coax - Crosses With: 38 39 41 42 
+110 - 32 Down   -  4 Letters - feed - Crosses With: 39 41 42 

@@ -1,0 +1,23 @@
+1 Pegs Remain
+Total nodes explored: 7
+Total time: 0:0:0:6
+Board 0: 5 Pegs
+011
+111
+000
+Board 1: 4 Pegs
+100
+111
+000
+Board 2: 3 Pegs
+000
+011
+100
+Board 3: 2 Pegs
+000
+100
+100
+Board 4: 1 Pegs
+100
+000
+000

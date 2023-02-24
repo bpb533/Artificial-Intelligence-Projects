@@ -1,0 +1,66 @@
+Puzzle Heart.txt Solution
+
+  rat   sac  
+ seize solar 
+ eclat calve 
+err ruler asp
+lied don glee
+fear ewe ring
+ stew   meet 
+  earn tear  
+   diarist   
+    tiara    
+     lie     
+      n      
+
+Program Performance Data:
+Total comparisons: 21670112
+Total time: 1:8:44:51
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 8 Letters
+Dictionary Word Counts: 0 0 533 1755 2461 3273 3434 3094 
+Dictionary Sample: ere, tee ... why, pyx; epee, alee ... buzz, fuzz; eerie, aerie ... jazzy, fuzzy; teepee, teeter ... fluffy, dybbuk; referee, release ... kickoff, mugwump; recreate, repartee ... humpback, busybody; 
+
+Word List: Index - Length - Word
+ 1 Across -  3 Letters - rat
+ 4 Across -  3 Letters - sac
+ 7 Across -  5 Letters - seize
+ 9 Across -  5 Letters - solar
+11 Across -  5 Letters - eclat
+12 Across -  5 Letters - calve
+13 Across -  3 Letters - err
+14 Across -  5 Letters - ruler
+16 Across -  3 Letters - asp
+18 Across -  4 Letters - lied
+20 Across -  3 Letters - don
+21 Across -  4 Letters - glee
+22 Across -  4 Letters - fear
+23 Across -  3 Letters - ewe
+24 Across -  4 Letters - ring
+25 Across -  4 Letters - stew
+27 Across -  4 Letters - meet
+28 Across -  4 Letters - earn
+30 Across -  4 Letters - tear
+31 Across -  7 Letters - diarist
+33 Across -  5 Letters - tiara
+34 Across -  3 Letters - lie
+ 1 Down   -  8 Letters - recreate
+ 2 Down   -  3 Letters - ail
+ 3 Down   -  4 Letters - tzar
+ 4 Down   -  4 Letters - soar
+ 5 Down   -  3 Letters - all
+ 6 Down   -  8 Letters - cavalier
+ 7 Down   -  6 Letters - series
+ 8 Down   -  5 Letters - etude
+ 9 Down   -  5 Letters - scene
+10 Down   -  6 Letters - resent
+13 Down   -  3 Letters - elf
+15 Down   -  3 Letters - low
+17 Down   -  3 Letters - peg
+19 Down   -  5 Letters - dread
+21 Down   -  5 Letters - great
+26 Down   -  4 Letters - writ
+27 Down   -  4 Letters - mesa
+29 Down   -  4 Letters - nail
+30 Down   -  4 Letters - tire
+32 Down   -  4 Letters - rain

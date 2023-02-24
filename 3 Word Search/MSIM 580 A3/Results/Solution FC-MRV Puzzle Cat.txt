@@ -1,0 +1,45 @@
+Puzzle Cat.txt Solution Backtracking Algorithm with Forward Checking and Minimum Remaining Values
+
+ e   a     
+ spoor     
+at c me    
+ attar     
+ trade     
+peevish   l
+e footed  e
+t o s let e
+e i  alee r
+r l anomaly
+
+Program Performance Data:
+Total comparisons: 35106825
+Search time: 2:5:31:990
+Preparation time: 0:0:7:899
+Total time: 2:5:39:889
+Dictionary Summary:
+Shortest Word: 2 Letters, Longest Word: 7 Letters
+Dictionary Word Counts: 0 33 533 1755 2461 3273 3434 
+Dictionary Sample: at, me ... my, by; ere, tee ... why, pyx; epee, alee ... buzz, fuzz; eerie, aerie ... jazzy, fuzzy; teepee, teeter ... fluffy, dybbuk; referee, release ... kickoff, mugwump; 
+
+Word List: Index - Length - Word
+ 3 Across -  5 Letters - spoor
+ 5 Across -  2 Letters - at
+ 6 Across -  2 Letters - me
+ 7 Across -  5 Letters - attar
+10 Across -  5 Letters - trade
+11 Across -  7 Letters - peevish
+14 Across -  6 Letters - footed
+16 Across -  3 Letters - let
+18 Across -  4 Letters - alee
+19 Across -  7 Letters - anomaly
+ 1 Down   -  6 Letters - estate
+ 2 Down   -  7 Letters - armrest
+ 4 Down   -  6 Letters - octavo
+ 8 Down   -  7 Letters - trefoil
+ 9 Down   -  5 Letters - adios
+11 Down   -  5 Letters - peter
+12 Down   -  5 Letters - hello
+13 Down   -  5 Letters - leery
+15 Down   -  4 Letters - deem
+17 Down   -  3 Letters - tea
+18 Down   -  2 Letters - an

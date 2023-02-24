@@ -1,0 +1,36 @@
+Puzzle Tree.txt Solution
+
+  abalone   
+  b     a  a
+  a     c  b
+  c  aloha l
+  k    b   a
+    a  jabot
+    n  e a e
+ b antic b  
+ u  a  t b  
+afield   l  
+ f  s    e  
+
+Program Performance Data:
+Total comparisons: 0
+Total time: 0:0:0:66
+Dictionary Summary:
+Shortest Word: 4 Letters, Longest Word: 7 Letters
+Dictionary Indexes: 0 0 0 0 1755 4216 7489 10923 
+Dictionary Word Counts: 0 0 0 1755 2461 3273 3434 
+Dictionary Sample: abbe, abed ... zone, zoom; aback, abaft ... zonal, zooid; abacus, abatis ... zygote, zymase; abalone, abandon ... zealous, zoology; 
+
+Word List: Index - Length - Word
+  2 -  1 Across -  7 Letters - abalone - Crosses With: 1 3 
+ 41 -  4 Across -  5 Letters - aloha - Crosses With: 3 6 
+ 67 -  7 Across -  5 Letters - jabot - Crosses With: 4 6 9 
+ 87 - 10 Across -  5 Letters - antic - Crosses With: 6 7 
+108 - 11 Across -  6 Letters - afield - Crosses With: 7 10 
+  2 -  1 Down   -  5 Letters - aback - Crosses With: 2 
+  8 -  2 Down   -  4 Letters - each - Crosses With: 2 5 
+ 23 -  3 Down   -  6 Letters - ablate - Crosses With: 8 
+ 43 -  5 Down   -  6 Letters - object - Crosses With: 5 8 11 
+ 64 -  6 Down   -  6 Letters - annals - Crosses With: 11 12 
+ 69 -  8 Down   -  6 Letters - babble - Crosses With: 8 
+ 85 -  9 Down   -  4 Letters - buff - Crosses With: 12 

@@ -1,0 +1,66 @@
+Puzzle Heart.txt Solution
+
+  ass   ego  
+ saute spout 
+ preen width 
+old magic see
+viva con amok
+anal toe mare
+ trio   aery 
+  kale cent  
+   seafood   
+    ocean    
+     hex     
+      d      
+
+Program Performance Data:
+Total comparisons: 16396061
+Total time: 1:1:41:167
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 8 Letters
+Dictionary Word Counts: 0 0 533 1755 2461 3273 3434 3094 
+Dictionary Sample: ace, act ... zip, zoo; abbe, abed ... zone, zoom; aback, abaft ... zonal, zooid; abacus, abatis ... zygote, zymase; abalone, abandon ... zealous, zoology; aardvark, abattoir ... zoospore, zwieback; 
+
+Word List: Index - Length - Word
+ 1 Across -  3 Letters - ass
+ 4 Across -  3 Letters - ego
+ 7 Across -  5 Letters - saute
+ 9 Across -  5 Letters - spout
+11 Across -  5 Letters - preen
+12 Across -  5 Letters - width
+13 Across -  3 Letters - old
+14 Across -  5 Letters - magic
+16 Across -  3 Letters - see
+18 Across -  4 Letters - viva
+20 Across -  3 Letters - con
+21 Across -  4 Letters - amok
+22 Across -  4 Letters - anal
+23 Across -  3 Letters - toe
+24 Across -  4 Letters - mare
+25 Across -  4 Letters - trio
+27 Across -  4 Letters - aery
+28 Across -  4 Letters - kale
+30 Across -  4 Letters - cent
+31 Across -  7 Letters - seafood
+33 Across -  5 Letters - ocean
+34 Across -  3 Letters - hex
+ 1 Down   -  8 Letters - aardvark
+ 2 Down   -  3 Letters - sue
+ 3 Down   -  4 Letters - stem
+ 4 Down   -  4 Letters - epic
+ 5 Down   -  3 Letters - god
+ 6 Down   -  8 Letters - outsmart
+ 7 Down   -  6 Letters - splint
+ 8 Down   -  5 Letters - enact
+ 9 Down   -  5 Letters - swine
+10 Down   -  6 Letters - theory
+13 Down   -  3 Letters - ova
+15 Down   -  3 Letters - goo
+17 Down   -  3 Letters - eke
+19 Down   -  5 Letters - alias
+21 Down   -  5 Letters - amend
+26 Down   -  4 Letters - oleo
+27 Down   -  4 Letters - aeon
+29 Down   -  4 Letters - each
+30 Down   -  4 Letters - coax
+32 Down   -  4 Letters - feed

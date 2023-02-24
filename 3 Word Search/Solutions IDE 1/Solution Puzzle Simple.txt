@@ -1,0 +1,27 @@
+Puzzle Simple.txt Solution
+
+HOSES
+  A T
+ HIKE
+A LEE
+LASER
+E  L 
+
+Program Performance Data:
+Total comparisons: 37
+Total time: 0:0:0:24
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 5 Letters
+Dictionary Indexes: 0 0 0 5 10 15 
+Dictionary Word Counts: 0 0 5 5 5 
+Dictionary Sample: AFT, ALE ... LEE, TIE; HEEL, HIKE ... KNOT, LINE; HOSES, LASER ... SHEET, STEER; 
+
+Word List: Index - Length - Word
+  0 -  1 Across -  5 Letters - HOSES - Crosses With: 2 3 
+ 11 -  4 Across -  4 Letters - HIKE - Crosses With: 2 3 5 
+ 17 -  7 Across -  3 Letters - LEE - Crosses With: 2 3 5 
+ 20 -  8 Across -  5 Letters - LASER - Crosses With: 2 3 5 6 
+  2 -  2 Down   -  5 Letters - SAILS - Crosses With: 1 4 7 8 
+  4 -  3 Down   -  5 Letters - STEER - Crosses With: 1 4 7 8 
+ 13 -  5 Down   -  4 Letters - KEEL - Crosses With: 4 7 8 
+ 15 -  6 Down   -  3 Letters - ALE - Crosses With: 8 

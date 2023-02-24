@@ -1,0 +1,66 @@
+Puzzle Heart.txt Solution
+
+  ere   ohm  
+ atoll spoor 
+ these table 
+ate easel eve
+fire sea shew
+tree eel tire
+ earn   rile 
+  lied yell  
+   evacuee   
+    aural    
+     ben     
+      w      
+
+Program Performance Data:
+Total comparisons: 891397
+Total time: 0:4:21:666
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 8 Letters
+Dictionary Word Counts: 0 0 534 1755 2461 3273 3434 3094 
+Dictionary Sample: ere, tee ... why, pyx; epee, alee ... buzz, fuzz; eerie, aerie ... jazzy, fuzzy; teepee, teeter ... fluffy, dybbuk; referee, release ... kickoff, mugwump; recreate, repartee ... humpback, busybody; 
+
+Word List: Index - Length - Word
+ 1 Across -  3 Letters - ere
+ 4 Across -  3 Letters - ohm
+ 7 Across -  5 Letters - atoll
+ 9 Across -  5 Letters - spoor
+11 Across -  5 Letters - these
+12 Across -  5 Letters - table
+13 Across -  3 Letters - ate
+14 Across -  5 Letters - easel
+16 Across -  3 Letters - eve
+18 Across -  4 Letters - fire
+20 Across -  3 Letters - sea
+21 Across -  4 Letters - shew
+22 Across -  4 Letters - tree
+23 Across -  3 Letters - eel
+24 Across -  4 Letters - tire
+25 Across -  4 Letters - earn
+27 Across -  4 Letters - rile
+28 Across -  4 Letters - lied
+30 Across -  4 Letters - yell
+31 Across -  7 Letters - evacuee
+33 Across -  5 Letters - aural
+34 Across -  3 Letters - ben
+ 1 Down   -  8 Letters - ethereal
+ 2 Down   -  3 Letters - roe
+ 3 Down   -  4 Letters - else
+ 4 Down   -  4 Letters - opal
+ 5 Down   -  3 Letters - hob
+ 6 Down   -  8 Letters - molehill
+ 7 Down   -  6 Letters - attire
+ 8 Down   -  5 Letters - lease
+ 9 Down   -  5 Letters - steal
+10 Down   -  6 Letters - revere
+13 Down   -  3 Letters - aft
+15 Down   -  3 Letters - see
+17 Down   -  3 Letters - ewe
+19 Down   -  5 Letters - eerie
+21 Down   -  5 Letters - stile
+26 Down   -  4 Letters - neva
+27 Down   -  4 Letters - reel
+29 Down   -  4 Letters - daub
+30 Down   -  4 Letters - yuan
+32 Down   -  4 Letters - crew

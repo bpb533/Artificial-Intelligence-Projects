@@ -1,0 +1,68 @@
+Puzzle Heart.txt Solution Backtracking Algorithm with Forward Checking and Minimum Remaining Values
+
+  ere   rod  
+ atoll sinew 
+ these teeth 
+ate easel rip
+fire sea vile
+tree eel atop
+ earn   alum 
+  lied plus  
+   evacuee   
+    arise    
+     nth     
+      e      
+
+Program Performance Data:
+Total comparisons: 3058627
+Search time: 0:9:40:405
+Preparation time: 0:0:13:484
+Total time: 0:9:53:889
+Dictionary Summary:
+Shortest Word: 3 Letters, Longest Word: 8 Letters
+Dictionary Word Counts: 0 0 534 1755 2461 3273 3434 3094 
+Dictionary Sample: ere, tee ... why, pyx; epee, alee ... buzz, fuzz; eerie, aerie ... jazzy, fuzzy; teepee, teeter ... fluffy, dybbuk; referee, release ... kickoff, mugwump; recreate, repartee ... humpback, busybody; 
+
+Word List: Index - Length - Word
+ 1 Across -  3 Letters - ere
+ 4 Across -  3 Letters - rod
+ 7 Across -  5 Letters - atoll
+ 9 Across -  5 Letters - sinew
+11 Across -  5 Letters - these
+12 Across -  5 Letters - teeth
+13 Across -  3 Letters - ate
+14 Across -  5 Letters - easel
+16 Across -  3 Letters - rip
+18 Across -  4 Letters - fire
+20 Across -  3 Letters - sea
+21 Across -  4 Letters - vile
+22 Across -  4 Letters - tree
+23 Across -  3 Letters - eel
+24 Across -  4 Letters - atop
+25 Across -  4 Letters - earn
+27 Across -  4 Letters - alum
+28 Across -  4 Letters - lied
+30 Across -  4 Letters - plus
+31 Across -  7 Letters - evacuee
+33 Across -  5 Letters - arise
+34 Across -  3 Letters - nth
+ 1 Down   -  8 Letters - ethereal
+ 2 Down   -  3 Letters - roe
+ 3 Down   -  4 Letters - else
+ 4 Down   -  4 Letters - riel
+ 5 Down   -  3 Letters - one
+ 6 Down   -  8 Letters - detritus
+ 7 Down   -  6 Letters - attire
+ 8 Down   -  5 Letters - lease
+ 9 Down   -  5 Letters - steal
+10 Down   -  6 Letters - whilom
+13 Down   -  3 Letters - aft
+15 Down   -  3 Letters - see
+17 Down   -  3 Letters - pep
+19 Down   -  5 Letters - eerie
+21 Down   -  5 Letters - value
+26 Down   -  4 Letters - neva
+27 Down   -  4 Letters - alee
+29 Down   -  4 Letters - darn
+30 Down   -  4 Letters - push
+32 Down   -  4 Letters - cite
